@@ -9,7 +9,15 @@ The main goal of the program is to generate the result of the beta_reduction of 
 ## Table of contents
 
 
-<!-- TOC -->- [The structures](#structures)<br />    - [What to install](#needs)<br />    - [How to install](#how)<br />    - [Usage](#utilisation)<br />    - [Parsing syntax ](#parse)<br />    - [Documentation](#docu)<br />    - [Project status and Contribution](#status)<br /> <!-- /TOC -->
+<!-- TOC -->
+- [The structures](#structures)
+- [What to install](#needs)   
+- [How to install](#how)   
+- [Usage](#utilisation)
+- [Parsing syntax ](#parse)
+- [Documentation](#docu)
+- [Project status and Contribution](#status)
+<!-- /TOC -->
 
 ## Structures <a name="structures"></a>
 
