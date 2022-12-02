@@ -1,0 +1,4 @@
+Pillow
+pyfiglet
+keyboard
+shutil
